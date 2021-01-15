@@ -92,7 +92,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #69707a;
+  color: #52585f;
   text-align: left;
   background-color: #fff;
 }
@@ -3925,14 +3925,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-primary-soft {
-  color: #410c5c;
-  background-color: #c496db;
-  border-color: #c496db;
+  color: #fff;
+  background-color: #07b500;
+  border-color: #07b500;
 }
 .btn-primary-soft:hover {
   font: #410c5c;
-  background-color: #8c6d9b;
-  border-color: #8c6d9b;
+  background-color: #287728;
+  border-color: #287728;
 }
 .btn-primary-soft:focus, .btn-primary-soft.focus {
   color: #410c5c;
@@ -9354,7 +9354,7 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #f8fbf8 !important;
+  background-color: #f8f9fb !important;
 }
 
 a.bg-light:hover, a.bg-light:focus,
@@ -9754,7 +9754,7 @@ button.bg-danger-soft:focus {
 }
 
 .border-green {
-  border-color: #00ac69 !important;
+  border-color: #07b500 !important;
 }
 
 .border-teal {
@@ -18118,6 +18118,10 @@ a.text-danger:hover, a.text-danger:focus {
   color: #f8f9fb !important;
 }
 
+.text-new, .page-header-dark .btn-link {
+  color: #212832 !important;
+}
+
 a.text-light:hover, .page-header-dark a.btn-link:hover, a.text-light:focus, .page-header-dark a.btn-link:focus {
   color: #b4cbee !important;
 }
@@ -19012,7 +19016,7 @@ body {
 }
 
 .border-green {
-  border-color: #00ac69 !important;
+  border-color: #07b500 !important;
 }
 
 .border-teal {
@@ -21263,7 +21267,7 @@ section {
   padding-bottom: 8rem;
 }
 .page-header .page-header-content .page-header-title {
-  font-size: 2.5rem;
+  font-size: 3rem;
 }
 .page-header .page-header-content .page-header-text {
   font-size: 1.15rem;
@@ -21283,7 +21287,7 @@ section {
   background-color: #f2f6fc;
 }
 .page-header-light .page-header-text {
-  color: #69707a;
+  color: #52585f;
 }
 .page-header-light .page-header-text a {
   color: #4a515b;
