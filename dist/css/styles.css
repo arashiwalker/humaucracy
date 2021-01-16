@@ -386,8 +386,8 @@ template {
   display: none !important;
 }
 
-h1, h2, h3, h4, h5, h6,
-.h1, .h2, .h3, .h4, .h5, .h6 {
+h1, h2, h3, h4, h5,
+.h1, .h2, .h3, .h4, .h5 {
   margin-bottom: 0.5rem;
   font-weight: 500;
   line-height: 1.2;
@@ -415,7 +415,8 @@ h5, .h5 {
 }
 
 h6, .h6 {
-  font-size: 1rem;
+  font-size: 1.2rem;
+  color: #41883f;
 }
 
 .lead {
@@ -3926,8 +3927,8 @@ fieldset:disabled a.btn {
 
 .btn-primary-soft {
   color: #fff;
-  background-color: #07b500;
-  border-color: #07b500;
+  background-color: #41883f;
+  border-color: #41883f;
 }
 .btn-primary-soft:hover {
   font: #410c5c;
@@ -18367,11 +18368,11 @@ a.text-danger-soft:hover, a.text-danger-soft:focus {
 }
 
 .text-black-50 {
-  color: rgba(0, 0, 0, 0.5) !important;
+  color: rgba(255, 255, 255, 0.5) !important;
 }
 
 .text-white-50, .page-header-dark .page-header-text {
-  color: rgba(255, 255, 255, 0.5) !important;
+  color: rgba(255, 255, 255, 0.932) !important;
 }
 
 .text-hide {
