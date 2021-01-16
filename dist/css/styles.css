@@ -386,8 +386,8 @@ template {
   display: none !important;
 }
 
-h1, h2, h3, h4, h5,
-.h1, .h2, .h3, .h4, .h5 {
+h1, h2, h3, h4, 
+.h1, .h2, .h3, .h4 {
   margin-bottom: 0.5rem;
   font-weight: 500;
   line-height: 1.2;
@@ -411,7 +411,8 @@ h4, .h4 {
 }
 
 h5, .h5 {
-  font-size: 1.1rem;
+  font-size: 1.2rem;
+  color: #410c5c;
 }
 
 h6, .h6 {
