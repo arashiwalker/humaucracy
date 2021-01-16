@@ -399,7 +399,7 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  font-size: 1.4rem;
+  font-size: 1.6rem;
 }
 
 h3, .h3 {
@@ -6513,7 +6513,7 @@ input[type=button].btn-block {
 
 .card-footer {
   padding: 1rem 1.35rem;
-  background-color: rgba(0, 0, 0, 0.03);
+  background-color: rgba(0, 0, 0, 0.041);
   border-top: 0 solid rgba(0, 0, 0, 0.125);
 }
 .card-footer:last-child {
