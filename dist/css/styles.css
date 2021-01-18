@@ -412,12 +412,12 @@ h4, .h4 {
 
 h5, .h5 {
   font-size: 1.2rem;
-  color: #410c5c;
+  color: #41883f;
 }
 
 h6, .h6 {
   font-size: 1.2rem;
-  color: #41883f;
+  color: #410c5c;
 }
 
 .lead {
@@ -7202,7 +7202,7 @@ a.badge-pink-soft:focus, a.badge-pink-soft.focus {
 
 .badge-primary-soft {
   color: #212832;
-  background-color: #dae7fb;
+  background-color: #f1dafb;
 }
 a.badge-primary-soft:hover, a.badge-primary-soft:focus {
   color: #212832;
@@ -18217,7 +18217,7 @@ a.text-indigo:hover, a.text-indigo:focus {
 }
 
 .text-purple {
-  color: #6900c7 !important;
+  color: #410c5c !important;
 }
 
 a.text-purple:hover, a.text-purple:focus {
@@ -18725,11 +18725,11 @@ body {
 }
 
 .bg-gray-600 {
-  background-color: #69707a !important;
+  background-color: #744fa0 !important;
 }
 
 .bg-gray-700 {
-  background-color: #4a515b !important;
+  background-color: #c29ce0 !important;
 }
 
 .bg-gray-800 {
@@ -21268,9 +21268,21 @@ section {
   padding-top: 8rem;
   padding-bottom: 8rem;
 }
+
 .page-header .page-header-content .page-header-title {
   font-size: 3rem;
+  color:#363d47;
 }
+
+.page-header .page-header-content .page-header-title-1 {
+  font-size: 2.0rem;
+  color:#363d47;
+}
+
+.page-header .page-header-content .page-header-text-1 {
+  font-size: 1.7rem;
+}
+
 .page-header .page-header-content .page-header-text {
   font-size: 1.15rem;
 }
@@ -21498,7 +21510,7 @@ section {
   margin-left: 1.6em;
 }
 .pricing .pricing-list .pricing-list-item {
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
 }
 
 @media (min-width: 992px) {
