@@ -6514,10 +6514,11 @@ input[type=button].btn-block {
 }
 
 .card-footer {
-  padding: 0.1rem 1.35rem;
+  padding: 1rem 1.35rem;
   background-color: rgba(0, 0, 0, 0.062);
   border-top: 0 solid rgba(0, 0, 0, 0.125);
 }
+
 .card-footer:last-child {
   border-radius: 0 0 0.35rem 0.35rem;
 }
