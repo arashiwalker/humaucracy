@@ -6514,7 +6514,7 @@ input[type=button].btn-block {
 }
 
 .card-footer {
-  padding: 1rem 1.35rem;
+  padding: 0.1rem 1.35rem;
   background-color: rgba(0, 0, 0, 0.062);
   border-top: 0 solid rgba(0, 0, 0, 0.125);
 }
